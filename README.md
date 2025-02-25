@@ -1,1 +1,2 @@
 # Data-driven-decision-for-Obesity-Levels-Based-on-Eating-Habits-and-Physical-Activities
+### Critically analysed and interpreted complex data sets using statistical techniques and programming tools. Evaluated and communicated data-driven insights effectively through visualisations. Developed and applied advanced data analysis techniques to provide actionable insights into real-world problems and evaluate the ethical implications of data analysis and visualisation practices.
